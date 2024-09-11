@@ -2,13 +2,18 @@
   padding: 0px;
   margin: 0px;
   box-sizing: 0px;
-  background-color: rgba(180, 67, 26, 0.813);
+}
+
+body {
+  background-color: rgb(255, 164, 90);
+  font-family: "Montserrat", sans-serif;
 }
 
 img {
   width: 300px;
   border: solid 6px;
   border-color: orange;
+  border-radius: 20px;
 }
 
 .ingredientes {
